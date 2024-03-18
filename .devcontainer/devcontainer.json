@@ -1,0 +1,8 @@
+// Info https://containers.dev/implementors/json_reference/
+// Info https://github.com/IdeaUJetBrains/idea-demo-devcontainers/blob/master/.devcontainer/devcontainer.json
+{
+  //	name of the dev container
+  "name": "idea-demo",
+  //	Or use a Dockerfile here, more info: https://containers.dev/guide/dockerfile
+  "image":  "openjdk:17"
+}
